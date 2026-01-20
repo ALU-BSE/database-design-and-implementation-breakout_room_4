@@ -1,4 +1,5 @@
-CREATE DATABASE IF NOT EXISTS moto_taxi;
+DROP DATABASE IF EXISTS moto_taxi;
+CREATE DATABASE moto_taxi;
 USE moto_taxi;
 
 CREATE TABLE riders (

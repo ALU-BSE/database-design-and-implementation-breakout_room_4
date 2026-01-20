@@ -1,3 +1,5 @@
+USE moto_taxi;
+
 -- Insert 3 unique riders
 INSERT INTO riders (rider_id, name, motorcycle_plate) VALUES
 (1, 'Jean-Pierre Uwimana', 'RAB 123A'),
